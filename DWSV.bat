@@ -1,0 +1,1 @@
+sc create DWDAService binpath= "E:\DW_DX\DWSV\BG.CommunicateService\bin\Debug\BG.CommunicateService.exe"  start= auto displayname= "DW_SVSpider" 
